@@ -11,7 +11,7 @@ a deep learning model that successfully recognizes hindi alphabets/characters.
 this code will train the model and create a weight file devanagri.h5
 ```
 
-### Testingg the model
+### Testing the model
 ```
   run: handwriting recog.py
   
