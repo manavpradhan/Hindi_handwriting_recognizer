@@ -2,6 +2,7 @@
 a deep learning model that successfully recognizes hindi alphabets/characters.
 
 ### DEMO
+click to watch!
 
  [![Watch the video](https://img.youtube.com/vi/nTnPcnt5haw/maxresdefault.jpg)](https://youtu.be/nTnPcnt5haw)
 
