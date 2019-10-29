@@ -22,5 +22,5 @@ this code will train the model and create a weight file devanagri.h5
   
 - When you see the frame and thresh screen, make sure your background doesn't have any blue items.
 - Draw the character you wish onto the frame using a blue pointer object(blue pen with cap).
-- the frame will show name of character you drew
+- the frame will show name of character you drew.
 ```
