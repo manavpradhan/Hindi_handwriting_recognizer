@@ -1,6 +1,10 @@
 # Hindi_handwriting_recognizer
 a deep learning model that successfully recognizes hindi alphabets/characters.
 
+### DEMO
+
+ [![Watch the video](https://img.youtube.com/vi/nTnPcnt5haw/maxresdefault.jpg)](https://youtu.be/nTnPcnt5haw)
+
 ### Training the model
 ```
 - Download or clone the repository.
