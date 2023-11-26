@@ -4,7 +4,7 @@ a deep learning model that successfully recognizes hindi alphabets/characters.
 ### DEMO
 click to watch!
 
- [![Watch the video](https://img.youtube.com/v/nTnPcnt5haw/default.jpg)](https://youtu.be/nTnPcnt5haw)
+ [![Watch the video](https://img.youtube.com/v/y5XoL2aTgVY/default.jpg)](https://youtu.be/nTnPcnt5haw)
 
 ### Training the model
 ```
